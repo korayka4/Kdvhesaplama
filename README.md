@@ -1,3 +1,5 @@
+
+
 def kdv_hesapla():
     gida_urunleri = ["ekmek", "peynir", "zeytin", "cikolata"]
     beyaz_esya = ["bilgisayar", "televizyon", "buzdolabi"]
